@@ -1,0 +1,22 @@
+a = 3  b = 9
+loop 1
+print(a is 3)
+a = 4
+b = 8
+
+loop 2
+print(b is 8)
+inner loop:b - a = 4
+a =4 b = 8
+i = 0 1 2 3
+print("a * i + b = 8 12 16 20")
+a = 5
+b = 7
+
+loop 3
+print(a is 5)
+a = 6
+b = 6
+
+loop 4
+b is 6

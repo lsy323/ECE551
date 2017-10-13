@@ -1,0 +1,43 @@
+x = 2
+a = someFunction(2,3)
+in someFunction with parameter (2,3)
+{
+ x = 2, y = 3
+ a = 2 + 3 = 5
+ in loop i = 0, 1
+ loop 1:(i = 0)
+ print(In the loop with i = 0, a = 5)
+ a = 5 + 2 =7
+ loop 2:(i = 1)
+ print(In .... i = 1, a = 7)
+ a = 7 + 2 = 9
+ return a * y = 9 * 3 = 27
+}
+a = 27
+print a = 27
+print x = 2
+
+somefunction(3, 2)
+{
+go to anotherfunction(2, 7)
+   in anotherfunction{
+      a = 2 b = 7
+      answer = 42
+      print(In anotherFunction(2,7))
+      in while loop{
+      	 loop 1:
+      	 print(a is 2, b is 7)
+	 answer = 42 + (7 - 2) = 47
+	 b = 5
+	 a = 
+
+      }
+
+
+
+   }
+
+
+}
+
+
